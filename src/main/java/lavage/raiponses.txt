@@ -1,0 +1,5 @@
+Q1: La classe assiette empêche les incohérences de se former en utilisant la fonction synchronized 
+qui permet aux différents thread de ne pas modifier le compteur en meme temps et donc de ne pas créer 
+d'incohérences
+
+Q2:le thread représentant
